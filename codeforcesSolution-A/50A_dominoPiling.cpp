@@ -1,4 +1,4 @@
-/// created by mostafizzfuad
+//// created by mostafizzfuad
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
