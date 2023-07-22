@@ -5,6 +5,6 @@ using namespace std;
 #define ld long double
 int main() {
 
-    
+
     
 }
