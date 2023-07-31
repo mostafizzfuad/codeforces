@@ -6,6 +6,11 @@ using namespace std;
 #define llmax LLONG_MAX
 int main() {
 
+    int t;
+    cin >> t;
 
+    while (t--) {
+        
+    }
 
 }
